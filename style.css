@@ -1,0 +1,28 @@
+.link {
+    font-size: large;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 5px;
+
+}
+
+img {
+    width: 200px;
+    padding: 10px;
+}
+img:hover {
+    filter: brightness(70%);
+}
+
+/* .image-container:hover img {
+    filter: brightness(70%);
+    width: 50%; 
+
+  } */
+
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
