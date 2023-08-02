@@ -28,6 +28,8 @@
 
 }
 
+
+
 img {
     width: 200px;
     padding: 10px;
@@ -46,4 +48,5 @@ img:hover {
 
 * {
     font-family: Arial, Helvetica, sans-serif;
+    background-color:antiquewhite;
 }
