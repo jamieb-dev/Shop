@@ -12,9 +12,11 @@
 - Round off corners of images
 
 1.1.0
+-----
 - Flexbox menu and sidebars
 - Add shadows to tabs when hovering over them.
------
+- Add paralax effect to home page.
+
 2.0.0
 -----
 - Add 'grow shaddow' efftec and extra details (price etc.) to images when hovering over them.
