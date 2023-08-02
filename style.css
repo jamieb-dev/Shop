@@ -5,6 +5,7 @@
     font-weight: bold;
     border: 2px solid black;
     padding: 5px;
+    border-radius: 5px;
 
 }
 
@@ -30,6 +31,7 @@
 img {
     width: 200px;
     padding: 10px;
+    /* border-radius: 25px; */
 }
 img:hover {
     filter: brightness(70%);
