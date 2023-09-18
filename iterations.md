@@ -10,6 +10,7 @@
 - Basic HTML, CSS and JS boilerplate.
 - Add clickable pictures to preview items.
 - Round off corners of images
+- Add sort by price funtion
 
 1.1.0
 -----
